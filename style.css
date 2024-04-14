@@ -92,6 +92,12 @@ header {
     align-items: center;
 }
 
+.action_name:hover{
+    color: #ff3f6c;
+    cursor: pointer;
+    font-size: bo;
+}
+
 
 
 
