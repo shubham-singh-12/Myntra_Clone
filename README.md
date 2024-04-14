@@ -10,8 +10,8 @@ This project is a clone of the popular online fashion store Myntra, created usin
 - **Responsive Design**: The website is designed to be fully responsive, ensuring a seamless experience across devices.
 
 ## Screenshots
-![Homepage](screenshots/homepage.png)
-![Product Page](screenshots/product_page.png)
+![Homepage](./Homepage.png)
+![Product Page](./Brands%20Category.png)
 
 ## Usage
 1. Clone the repository: `https://github.com/shubham-singh-12/Myntra_Clone.git`
