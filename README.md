@@ -10,7 +10,14 @@ This project is a clone of the popular online fashion store Myntra, created usin
 - **Responsive Design**: The website is designed to be fully responsive, ensuring a seamless experience across devices.
 
 ## Screenshots
+<h2> HOME PAGE </h2>
+
 ![Homepage](./Homepage.png)
+
+<hr />
+
+<h2> HOME PAGE </h2>
+
 ![Product Page](./Brands%20Category.png)
 
 ## Usage
